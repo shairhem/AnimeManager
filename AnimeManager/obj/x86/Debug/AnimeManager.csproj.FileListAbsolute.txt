@@ -1,0 +1,11 @@
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\bin\x86\Debug\AnimeManager.exe.config
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\bin\x86\Debug\AnimeManager.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\bin\x86\Debug\AnimeManager.pdb
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\bin\x86\Debug\MySql.Data.dll
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.csprojResolveAssemblyReference.cache
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.Properties.Resources.resources
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.csproj.GenerateResource.Cache
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.pdb
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.Form1.resources
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeManager\AnimeManager\obj\x86\Debug\AnimeManager.Form2.resources
